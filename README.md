@@ -22,8 +22,8 @@ The whole ELT process is triggered and completed by etl_processor.py.
   ```
   mkdir cok_dir
   cd cok_dir
-  git clone https://github.com/Krocs-Analytica/cok_datathon.git
-  python .\cok_datathon\elt_processor.py
+  git clone https://github.com/msdaniel/ELT-Error-Management-Workflow-Using-Python.git
+  python .\ELT-Error-Management-Workflow-Using-Python\elt_processor.py
   
   ```
   
